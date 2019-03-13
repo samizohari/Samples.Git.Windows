@@ -17,6 +17,8 @@ namespace Samples.Git.Windows
             //ch 001
             //ch 002
             //ch 003
+            //ch 004
+
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
