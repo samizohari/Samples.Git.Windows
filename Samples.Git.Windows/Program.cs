@@ -15,6 +15,7 @@ namespace Samples.Git.Windows
         static void Main()
         {
             //ch 001
+            //ch 002
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
